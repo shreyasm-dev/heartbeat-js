@@ -1,6 +1,7 @@
 # heartbeat-js: Video-based pulse rate monitoring in JavaScript
 
 Adapted from [https://github.com/prouast/heartbeat-js](https://github.com/prouast/heartbeat-js)
+
 Changes made:
 - Made the video take up 100% width and changed text above video
 
