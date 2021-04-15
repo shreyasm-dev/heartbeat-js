@@ -4,6 +4,7 @@ Adapted from [https://github.com/prouast/heartbeat-js](https://github.com/prouas
 
 Changes made:
 - Made the video take up 100% width and changed text above video
+- Changed the font
 
 ----
 
